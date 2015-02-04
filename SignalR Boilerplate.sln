@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base.SignalR", "Base.SignalR\Base.SignalR.csproj", "{7C28B816-D26E-4F26-8F59-0C3F75CA1D70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingHub", "MessagingHub\MessagingHub.csproj", "{9ABC1B66-AFCB-4E30-B325-3C701826C4AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7C28B816-D26E-4F26-8F59-0C3F75CA1D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C28B816-D26E-4F26-8F59-0C3F75CA1D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C28B816-D26E-4F26-8F59-0C3F75CA1D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ABC1B66-AFCB-4E30-B325-3C701826C4AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABC1B66-AFCB-4E30-B325-3C701826C4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABC1B66-AFCB-4E30-B325-3C701826C4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABC1B66-AFCB-4E30-B325-3C701826C4AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
