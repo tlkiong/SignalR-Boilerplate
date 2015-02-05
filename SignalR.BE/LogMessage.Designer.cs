@@ -22,24 +22,24 @@ namespace SignalR.BE {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class LogMessages {
+    public class LogMessage {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
         
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal LogMessages() {
+        internal LogMessage() {
         }
         
         /// <summary>
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
+        public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("SignalR.BE.LogMessages", typeof(LogMessages).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("SignalR.BE.LogMessage", typeof(LogMessage).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -51,7 +51,7 @@ namespace SignalR.BE {
         ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
+        public static global::System.Globalization.CultureInfo Culture {
             get {
                 return resourceCulture;
             }
@@ -63,7 +63,7 @@ namespace SignalR.BE {
         /// <summary>
         ///   Looks up a localized string similar to &lt;br/&gt;{0} client connected to Hub&lt;br/&gt;ConnectionID: {1}&lt;br/&gt;Status: Connected.
         /// </summary>
-        internal static string ConnectedMessage {
+        public static string ConnectedMessage {
             get {
                 return ResourceManager.GetString("ConnectedMessage", resourceCulture);
             }
@@ -72,7 +72,7 @@ namespace SignalR.BE {
         /// <summary>
         ///   Looks up a localized string similar to &lt;br/&gt;{0} client disconnected from Hub &lt;br/&gt;ConnectionID: {1}&lt;br/&gt;Status: Disconnected.
         /// </summary>
-        internal static string DisconnectedMessage {
+        public static string DisconnectedMessage {
             get {
                 return ResourceManager.GetString("DisconnectedMessage", resourceCulture);
             }
@@ -81,7 +81,7 @@ namespace SignalR.BE {
         /// <summary>
         ///   Looks up a localized string similar to Faill to connect to Hub exception.
         /// </summary>
-        internal static string ExceptionHubConnectionFail {
+        public static string ExceptionHubConnectionFail {
             get {
                 return ResourceManager.GetString("ExceptionHubConnectionFail", resourceCulture);
             }
@@ -90,7 +90,7 @@ namespace SignalR.BE {
         /// <summary>
         ///   Looks up a localized string similar to Resume connection to Hub exception.
         /// </summary>
-        internal static string ExceptionHubConnectionResume {
+        public static string ExceptionHubConnectionResume {
             get {
                 return ResourceManager.GetString("ExceptionHubConnectionResume", resourceCulture);
             }
@@ -99,7 +99,7 @@ namespace SignalR.BE {
         /// <summary>
         ///   Looks up a localized string similar to Exception caught &lt;br/&gt;Message: {0}&lt;br/&gt;Inner Message: {1}&lt;br/&gt;Method: [2}.
         /// </summary>
-        internal static string ExceptionMessage {
+        public static string ExceptionMessage {
             get {
                 return ResourceManager.GetString("ExceptionMessage", resourceCulture);
             }
@@ -108,7 +108,7 @@ namespace SignalR.BE {
         /// <summary>
         ///   Looks up a localized string similar to &lt;br/&gt;{0} client reconnected from Hub &lt;br/&gt;ConnectionID: {1}&lt;br/&gt;Status: Reconnected.
         /// </summary>
-        internal static string ReconnectedMessage {
+        public static string ReconnectedMessage {
             get {
                 return ResourceManager.GetString("ReconnectedMessage", resourceCulture);
             }
@@ -117,7 +117,7 @@ namespace SignalR.BE {
         /// <summary>
         ///   Looks up a localized string similar to &lt;br/&gt;{0} client executed &apos;RunMethod&apos;&lt;br/&gt;ConnectionID: {1} &lt;br/&gt;Service: {2}&lt;br/&gt; Action: {3}.
         /// </summary>
-        internal static string RunMethodMessage {
+        public static string RunMethodMessage {
             get {
                 return ResourceManager.GetString("RunMethodMessage", resourceCulture);
             }
@@ -126,7 +126,7 @@ namespace SignalR.BE {
         /// <summary>
         ///   Looks up a localized string similar to &lt;br/&gt;{0} client subscribed to service&lt;br/&gt;ConnectionID: {1}&lt;br/&gt;Service: {2}.
         /// </summary>
-        internal static string SubscribeServiceMessage {
+        public static string SubscribeServiceMessage {
             get {
                 return ResourceManager.GetString("SubscribeServiceMessage", resourceCulture);
             }
@@ -135,7 +135,7 @@ namespace SignalR.BE {
         /// <summary>
         ///   Looks up a localized string similar to Unknown Client Connected&lt;br/&gt;ConnectionID: {0}.
         /// </summary>
-        internal static string UnknownClientMessage {
+        public static string UnknownClientMessage {
             get {
                 return ResourceManager.GetString("UnknownClientMessage", resourceCulture);
             }
@@ -144,7 +144,7 @@ namespace SignalR.BE {
         /// <summary>
         ///   Looks up a localized string similar to &lt;br/&gt;{0} client unsubscribe to service&lt;br/&gt;ConnectionID: {1}&lt;br/&gt;Service: {2}.
         /// </summary>
-        internal static string UnsubscribeServiceMessage {
+        public static string UnsubscribeServiceMessage {
             get {
                 return ResourceManager.GetString("UnsubscribeServiceMessage", resourceCulture);
             }

@@ -1,7 +1,7 @@
-c:\users\kiong\documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.BE\bin\Debug\SignalR.BE.dll
-c:\users\kiong\documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.BE\bin\Debug\SignalR.BE.pdb
-c:\users\kiong\documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.BE\obj\Debug\SignalR.BE.csprojResolveAssemblyReference.cache
-c:\users\kiong\documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.BE\obj\Debug\SignalR.BE.LogMessages.resources
-c:\users\kiong\documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.BE\obj\Debug\SignalR.BE.csproj.GenerateResource.Cache
-c:\users\kiong\documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.BE\obj\Debug\SignalR.BE.dll
-c:\users\kiong\documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.BE\obj\Debug\SignalR.BE.pdb
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.BE\bin\Debug\SignalR.BE.dll
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.BE\bin\Debug\SignalR.BE.pdb
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.BE\obj\Debug\SignalR.BE.csproj.GenerateResource.Cache
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.BE\obj\Debug\SignalR.BE.dll
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.BE\obj\Debug\SignalR.BE.pdb
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.BE\obj\Debug\SignalR.BE.LogMessage.resources
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.BE\obj\Debug\SignalR.BE.csprojResolveAssemblyReference.cache

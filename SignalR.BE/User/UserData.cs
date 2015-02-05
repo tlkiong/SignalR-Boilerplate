@@ -9,7 +9,7 @@ namespace SignalR.BE.User
     public class UserData
     {
         public int userID { get; set; }
-        public string loginName { get; set; }
+        public string username { get; set; }
         public string password { get; set; }
     }
 }

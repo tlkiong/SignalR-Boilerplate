@@ -40,18 +40,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BEConstant.cs" />
-    <Compile Include="LogMessages.Designer.cs">
+    <Compile Include="LogMessage.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>LogMessages.resx</DependentUpon>
+      <DependentUpon>LogMessage.resx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="User\UserData.cs" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="LogMessages.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>LogMessages.Designer.cs</LastGenOutput>
+    <EmbeddedResource Include="LogMessage.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>LogMessage.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
