@@ -11,5 +11,9 @@ namespace SignalR.Service.Common
     [MySignalRService(ServiceCode = BEConstant.Common.SERVICE_CODE)]
     public class CommonService : ServiceBase
     {
+        public CommonService(MyHub hub)
+            : base(hub)
+        {
+        }
     }
 }

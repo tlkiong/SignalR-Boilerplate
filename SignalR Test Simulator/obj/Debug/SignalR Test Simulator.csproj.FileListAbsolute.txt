@@ -1,0 +1,8 @@
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR Test Simulator\bin\Debug\SignalR Test Simulator.exe.config
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR Test Simulator\bin\Debug\SignalR Test Simulator.exe
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR Test Simulator\bin\Debug\SignalR Test Simulator.pdb
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR Test Simulator\obj\Debug\SignalR Test Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR Test Simulator\obj\Debug\SignalR_Test_Simulator.Properties.Resources.resources
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR Test Simulator\obj\Debug\SignalR Test Simulator.csproj.GenerateResource.Cache
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR Test Simulator\obj\Debug\SignalR Test Simulator.exe
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR Test Simulator\obj\Debug\SignalR Test Simulator.pdb

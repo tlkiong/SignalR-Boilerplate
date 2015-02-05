@@ -1,1 +1,10 @@
-C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.Service\obj\Debug\SignalR.Service.csprojResolveAssemblyReference.cache
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.Service\bin\Debug\SignalR.Service.dll
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.Service\bin\Debug\SignalR.Service.pdb
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.Service\bin\Debug\Base.SignalR.dll
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.Service\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.Service\bin\Debug\SignalR.BE.dll
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.Service\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.Service\obj\Debug\SignalR.Service.dll
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.Service\obj\Debug\SignalR.Service.pdb
