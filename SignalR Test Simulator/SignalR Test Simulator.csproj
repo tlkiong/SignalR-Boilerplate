@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>aea9f391-5894-4b20-897d-bdc025399522</ProjectGuid>
+    <ProjectGuid>{023CB26C-7FD6-4C5C-AD76-389B722817A6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SignalR_Test_Simulator</RootNamespace>
-    <AssemblyName>SignalR_Test_Simulator</AssemblyName>
+    <AssemblyName>SignalR Test Simulator</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
