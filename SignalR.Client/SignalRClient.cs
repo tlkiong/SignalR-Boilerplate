@@ -1,4 +1,4 @@
-﻿using Base.SignalR.SignalR;
+﻿using Base.SignalR.Signal_R;
 using Microsoft.AspNet.SignalR.Client;
 using Microsoft.AspNet.SignalR.Client.Http;
 using Microsoft.AspNet.SignalR.Client.Transports;

@@ -1,0 +1,1 @@
+C:\Users\Kiong\Documents\visualstudio2013\Projects\SignalR Boilerplate\SignalR.Service\obj\Debug\SignalR.Service.csprojResolveAssemblyReference.cache

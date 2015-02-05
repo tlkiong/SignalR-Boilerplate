@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Base.SignalR.SignalR
+namespace Base.SignalR.Signal_R
 {
     public abstract class ServiceBase
     {

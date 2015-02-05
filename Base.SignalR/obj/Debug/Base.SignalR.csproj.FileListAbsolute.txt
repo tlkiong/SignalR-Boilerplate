@@ -1,4 +1,3 @@
-c:\users\kiong\documents\visualstudio2013\Projects\SignalR Boilerplate\Base.SignalR\obj\Debug\Base.SignalR.csprojResolveAssemblyReference.cache
 c:\users\kiong\documents\visualstudio2013\Projects\SignalR Boilerplate\Base.SignalR\bin\Debug\Base.SignalR.dll
 c:\users\kiong\documents\visualstudio2013\Projects\SignalR Boilerplate\Base.SignalR\bin\Debug\Base.SignalR.pdb
 c:\users\kiong\documents\visualstudio2013\Projects\SignalR Boilerplate\Base.SignalR\bin\Debug\Microsoft.AspNet.SignalR.Client.dll

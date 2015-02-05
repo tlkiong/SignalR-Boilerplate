@@ -51,12 +51,12 @@
   <ItemGroup>
     <Compile Include="Common\SingletonBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SignalR\Constants.cs" />
-    <Compile Include="SignalR\MyHub.cs" />
-    <Compile Include="SignalR\MyHubClientBase.cs" />
-    <Compile Include="SignalR\ServiceAttributes.cs" />
-    <Compile Include="SignalR\ServiceBase.cs" />
-    <Compile Include="SignalR\SignalRExtension.cs" />
+    <Compile Include="Signal_R\Constants.cs" />
+    <Compile Include="Signal_R\MyHub.cs" />
+    <Compile Include="Signal_R\MyHubClientBase.cs" />
+    <Compile Include="Signal_R\ServiceAttributes.cs" />
+    <Compile Include="Signal_R\ServiceBase.cs" />
+    <Compile Include="Signal_R\SignalRExtension.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
